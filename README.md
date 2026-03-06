@@ -118,8 +118,6 @@ Dataset Collection
 Sign-To-Text-Recognition
 │
 ├── Sign_to_Text_model.ipynb
-├── dataset
-├── evaluation_results
 └── README.md
 ```
 
